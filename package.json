@@ -1,7 +1,6 @@
 {
   "name": "apollo-hello-world",
   "version": "1.0.0",
-  "description": "",
   "main": "dist/main.js",
   "scripts": {
     "start": "tsc && node dist/main.js",
@@ -22,5 +21,14 @@
     "@types/express": "^4.17.11",
     "tslint": "^6.1.3",
     "typescript": "^4.1.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astone2014/graphql-books.git"
+  },
+  "bugs": {
+    "url": "https://github.com/astone2014/graphql-books/issues"
+  },
+  "homepage": "https://github.com/astone2014/graphql-books#readme",
+  "description": ""
 }
